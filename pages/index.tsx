@@ -8,15 +8,12 @@ function HomePage() {
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
              Hi, I'm Ed, an explorer passionate about Earth's diverse cultures, science, technology,
-            and creativity. Through my writing,
-            I aim to share experiences and insights
+            and creativity. I aim to share experiences and insights
             that connect with fellow adventurers and curious minds.
           </h1>
-          <p>
-            This portfolio is built with Next.js and a library called next-mdx.
-            It allows you to write Markdown and focus on the content of your
-            portfolio.
-          </p>
+          <p>This blog is my way to clear my head and share my adventures
+            as I explore our amazing planet.</p>
+        
 
           <p>Deploy your own in a few minutes.</p>
         </div>
