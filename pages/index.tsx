@@ -17,10 +17,7 @@ function HomePage() {
             as I explore our amazing planet.</p>
         
 
-          <p>I might write in Spanish, English, and possibly some gibberish. Explore my latest {''}
-    <Link href="/posts">
-      <a className="posts-link">Posts</a>
-    </Link>
+          <p>I might write in Spanish, English, and possibly some gibberish.
           </p>
         </div>
       </Container>
