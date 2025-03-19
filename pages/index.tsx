@@ -7,7 +7,7 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-             Hi, I'm Ed, an explorer embracing life on Earth, cultures, science, technology,
+             Hi, I'm Ed, an explorer embracing life on Earth, human culture, science, technology,
           and creativity. I write to share my experiences and insights, connecting
           with fellow explorers, adventurers, and curious minds.
           </h1>
