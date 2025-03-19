@@ -1,5 +1,7 @@
 import Container from "../components/container";
 import Image from "next/image";
+import Link from 'next/link';
+
 
 function HomePage() {
   return (
@@ -11,7 +13,10 @@ function HomePage() {
             and creativity. I aim to share experiences and insights
             that connect with fellow adventurers and curious minds.
           </h1>
-          <p>This blog is my way to clear my head and share my adventures
+          <p>This {'blog'}
+    <Link href="/posts">
+      <a className="posts-link">Posts</a>
+    </Link> is my way to clear my head and share my adventures
             as I explore our amazing planet.</p>
         
 
