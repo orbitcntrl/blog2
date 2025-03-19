@@ -15,7 +15,7 @@ function HomePage() {
             as I explore our amazing planet.</p>
         
 
-          <p>Deploy your own in a few minutes.</p>
+          <p>I might write in Spanish, English, and possibly some gibberish.</p>
         </div>
       </Container>
 
