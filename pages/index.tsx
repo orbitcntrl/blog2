@@ -13,14 +13,15 @@ function HomePage() {
             and creativity. I aim to share experiences and insights
             that connect with fellow adventurers and curious minds.
           </h1>
-          <p>This {'blog'}
-    <Link href="/posts">
-      <a className="posts-link">Posts</a>
-    </Link> is my way to clear my head and share my adventures
+          <p>This blog is my way to clear my head and share my adventures
             as I explore our amazing planet.</p>
         
 
-          <p>I might write in Spanish, English, and possibly some gibberish.</p>
+          <p>I might write in Spanish, English, and possibly some gibberish. Explore my latest {''}
+    <Link href="/posts">
+      <a className="posts-link"></a>
+    </Link>
+          </p>
         </div>
       </Container>
 
