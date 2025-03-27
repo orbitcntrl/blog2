@@ -9,12 +9,11 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-             Hi, I'm Ed, an explorer passionate about Earth's diverse cultures, science, technology,
-            and creativity. I aim to share experiences and insights
-            that connect with fellow adventurers and curious minds.
+            Hi, I'm Ed—an explorer driven by a passion for Earth's diverse cultures, science, technology, and creativity. 
+            I share experiences and insights to connect with fellow adventurers and curious minds.
+            This blog is my space to clear my head and document my journey as I explore our incredible planet.
           </h1>
-          <p>This blog is my way to clear my head and share my adventures
-            as I explore our amazing planet.</p>
+          <p></p>
         
 
           <p>I might write in Spanish, English, and possibly some gibberish.
