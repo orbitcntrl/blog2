@@ -16,7 +16,7 @@ function HomePage() {
           <p></p>
         
 
-          <p>I might write in Spanish, English, and possibly some gibberish.
+          <p>
           </p>
         </div>
       </Container>
