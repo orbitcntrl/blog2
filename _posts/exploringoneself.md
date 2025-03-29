@@ -6,7 +6,6 @@ date: "2025-03-21"
 
 WORK IN PROGRESS
 
-
 I want to explore and navigate the memories that have shaped who I am—-my system of consciousness, the construct of "self."
 
 Through this practice, I aim to sketch an inner diagram, a map, a cartography (call it what you will) that conceptualizes my consciousness as a whole—not from an instrumentalist or medical perspective, but from a deeply personal and philosophical one.
