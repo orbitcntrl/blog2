@@ -1,7 +1,7 @@
 ----
 title: "Mapping the self"
 excerpt: "Inner cartography: exploring different terrains of my mind through memories, emotions, beliefs, and the lines in between."
-date: "3/29/2025"
+date: "3/21/2025"
 ----
 
 WORK IN PROGRESS
