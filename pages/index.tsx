@@ -23,8 +23,8 @@ function HomePage() {
 
       <div className="container max-w-4xl m-auto px-4 mt-20">
         <Image
-          src="/IMG_2257.JPEG"
-          alt="IMG_2257.JPEG"
+          src="/IMG_1044.JPEG"
+          alt="IMG_1044.JPEG"
           width={1920 / 2}
           height={1280 / 2}
         />
